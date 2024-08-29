@@ -1,8 +1,8 @@
 Ciao! My name is Paolo Brignoli, and I am PhD Candidate at the
-[Agricultural Economics and Rural Policy Group](https://www.wur.nl/en/research-results/chair-groups/social-sciences/agricultural-economics-and-rural-policy-group.htm){:target="_blank"} at
+[Agricultural Economics and Rural Policy Group](https://www.wur.nl/en/research-results/chair-groups/social-sciences/agricultural-economics-and-rural-policy-group.htm)&nbsp at
 [Wageningen University](https://www.wur.nl/){:target="_blank"}, The Netherlands.
 
-My research focuses on applying machine learning techniques to enhance the evaluation of agricultural policies. I want to understand how data-driven models can help in a domain, of causal identification, that must be guided by theory. 
+I focus on applying machine learning techniques to enhance the evaluation of agricultural policies. Growing up on a family farm in the hills south of Milan, I developed a deep connection to agriculture, which drives my research today. My work combines my passion for agriculture with advanced econometric methods, aiming to provide insights that improve policy-making and, ultimately, the livelihoods of farmers. With a strong background in both practical farming and cutting-edge research, I approach my studies with a unique perspective that bridges theory and real-world application.
 
 ### Publications
 <b>Brignoli, P. L., Varacca, A., Gardebroek, C., & Sckokai, P. (2024).</b> Machine learning to predict grains futures prices. *Agricultural Economics*, 55, 479–497. [https://doi.org/10.1111/agec.12828](https://doi.org/10.1111/agec.12828){:target=-"blank"}.
