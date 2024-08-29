@@ -1,11 +1,8 @@
-### Maybe it's working
-
 Ciao! My name is Paolo Brignoli, and I am PhD Candidate at the [Agricultural Economics and Rural Policy Group](https://www.wur.nl/en/research-results/chair-groups/social-sciences/agricultural-economics-and-rural-policy-group.htm){:target="_blank"} at [Wageningen University](https://www.wur.nl/){:target="_blank"}, The Netherlands. My research focuses on applying machine learning techniques to enhance the evaluation of agricultural policies. I want to understand how data-driven models can help in a domain, of causal identification, that must be guided by theory. 
 
-
-
 ### Publications
-<b>Machine learning to predict grain future prices</b> \
-<details><summary><abstract>Abstract</abstract></summary> 
+Brignoli, P. L., Varacca, A., Gardebroek, C., & Sckokai, P. (2024). Machine learning to predict grains futures prices. Agricultural Economics, 55, 479–497. [https://doi.org/10.1111/agec.12828]{https://doi.org/10.1111/agec.12828}{:target=-"blank"}
+<details><summary><abstract>Abstract</abstract></summary> Accurate commodity price forecasts are crucial for stakeholders in agricultural supply chains. They support informed marketing decisions, risk management, and investment strategies. Machine learning methods have significant potential to provide accurate forecasts by maximizing out-of-sample accuracy. However, their inherent complexity makes it challenging to understand the appropriate data pre-processing steps to ensure proper functionality. This study compares the forecasting performance of Long Short-Term Memory Recurrent Neural Networks (LSTM-RNNs) with classical econometric time series models for corn futures prices. The study considers various combinations of data pre-processing techniques, variable clusters, and forecast horizons. Our results indicate that LSTM-RNNs consistently outperform classical methods, particularly for longer forecast horizons. In particular, our findings demonstrate that LSTM-RNNs are capable of automatically handling structural breaks, resulting in more accurate forecasts when trained on datasets that include such shocks. However, in our setting, LSTM-RNNs struggle to deal with seasonality and trend components, necessitating specific data pre-processing procedures for their removal.
+
 ### Working Papers
 
