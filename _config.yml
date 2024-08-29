@@ -1,5 +1,7 @@
 title: Paolo Libenzio Brignoli
 #logo /relative path in github
 #description - text below image
-show downloads: true
+email: paolo.brignoli at wur dot nl
+logo: /assets/img/portrait.png
+show downloads: false
 theme: jekyll-theme-minimal
