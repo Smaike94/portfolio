@@ -11,13 +11,13 @@ My research focuses on applying machine learning techniques to enhance the evalu
 with [Cornelis Gardebroek](https://www.wur.nl/en/persons/koos-gardebroek.htm){:target="_blank"} and [Yann de Mey](https://www.wur.nl/es/persons/yann-de-mey.htm){:target="_blank"}
 <details><summary><abstract>Abstract</abstract></summary> Machine learning (ML) methods have been proposed to improve the assessment of agricultural policies through enhanced causal inference. This study uses a simulation framework tailored to FADN data to scrutinize the performance of both ML and classical methods under diverse causal properties crucial for identification. Our findings reveal significant variations in performance across different treatment assignment rules, sample sizes, and causal properties. Notably, the Causal Forest method consistently outperforms others in retrieving the causal effect and accurately characterizing its heterogeneity. However, the data-driven approach of ML methods proves ineffective in selecting the correct set of controls and addressing latent confounding. </details>
   
-</b>Evaluating the impact of organic farming: A double machine learning staggered difference-in-difference approach</b> \
+<b>Evaluating the impact of organic farming: A double machine learning staggered difference-in-difference approach</b> \
 with [Alessandro Varacca](https://publires.unicatt.it/en/persons/alessandro-varacca-2){:target="_blank"}, [Yann de Mey](https://www.wur.nl/es/persons/yann-de-mey.htm){:target="_blank"} and [Paolo Sckokai](https://docenti.unicatt.it/ppd2/en/docenti/03985/paolo-sckokai/profilo){:target="_blank"}
 
-</b>Double machine learning staggered difference-in-difference</b> \
+<b>Double machine learning staggered difference-in-difference</b> \
 with [Alessandro Varacca](https://publires.unicatt.it/en/persons/alessandro-varacca-2){:target="_blank"} and [Andrea Naghi](https://sites.google.com/view/anaghi/home){:target="_blank"}
 
-</b>DML-SDID: Double Machine Learning for Staggered Difference-in-Difference</b>
+<b>DML-SDID: Double Machine Learning for Staggered Difference-in-Difference</b>
 
-</b>Evaluating the impact of carbon taxation in Europe with a tree-based synthetic control method</b> \
+<b>Evaluating the impact of carbon taxation in Europe with a tree-based synthetic control method</b> \
 with [Andrea Naghi](https://sites.google.com/view/anaghi/home){:target="_blank"}, [Dalia Ghanem](https://are.ucdavis.edu/people/faculty/dalia-ghanem/){:target="_blank"} and [Boromeus W. Wanengkirtyo](https://uk.linkedin.com/in/bwanengkirtyo){:target="_blank"}
