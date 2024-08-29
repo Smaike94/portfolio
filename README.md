@@ -1,5 +1,5 @@
 Ciao! My name is Paolo Brignoli, and I am PhD Candidate at the
-[Agricultural Economics and Rural Policy Group] &nbsp; &nbsp; &nbsp; (https://www.wur.nl/en/research-results/chair-groups/social-sciences/agricultural-economics-and-rural-policy-group.htm)  
+[Agricultural Economics and Rural Policy Group](https://www.wur.nl/en/research-results/chair-groups/social-sciences/agricultural-economics-and-rural-policy-group.htm)  
  at [Wageningen University](https://www.wur.nl/){:target="_blank"}, The Netherlands.
 
 I focus on applying machine learning techniques to enhance the evaluation of agricultural policies. Growing up on a family farm in the hills south of Milan, I developed a deep connection to agriculture, which drives my research today. My work combines my passion for agriculture with advanced econometric methods, aiming to provide insights that improve policy-making and, ultimately, the livelihoods of farmers. With a strong background in both practical farming and cutting-edge research, I approach my studies with a unique perspective that bridges theory and real-world application.
